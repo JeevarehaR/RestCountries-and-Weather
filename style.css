@@ -1,0 +1,46 @@
+#title{
+    text-align: center;
+    background-color: rgba(235, 161, 224, 0.373);
+    padding: 20px;
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+    width: auto;
+}
+
+
+.card-header{
+    background-color: black;   
+}
+
+.card{
+    background: linear-gradient(60deg, rgb(181, 165, 127)0%,rgb(27, 26, 26)100%);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    color: white;
+    width: 330px;
+}
+
+.card-img-top{
+    /* padding: 30px 15px 5px 15px; */
+    /* border-radius: 10px; */
+    width : 310px;
+    height :250px;
+    margin: 10px;   
+}
+
+
+
+
+
+
+
+
